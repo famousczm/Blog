@@ -1,0 +1,7 @@
+// 密码字典文件
+mike
+food
+apple
+egg
+tiger
+orange
