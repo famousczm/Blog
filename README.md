@@ -15,3 +15,6 @@
 **Hacker**
 - [Unix口令破解与zip口令破解](https://github.com/famousczm/Blog/issues/6)
 - [端口扫描器](https://github.com/famousczm/Blog/issues/7)
+
+**Others**
+- [开发过程中的一些问题](https://github.com/famousczm/Blog/issues/9)
