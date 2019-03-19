@@ -11,6 +11,7 @@
 - [react-native-swiper 判断滑动方向和滑动次数](https://github.com/famousczm/Blog/issues/4)
 - [小技巧](https://github.com/famousczm/Blog/issues/5)
 - [动态切换App语言](https://github.com/famousczm/Blog/issues/8)
+- [Android 首次打开app切后台后总是会重启的问题](https://github.com/famousczm/Blog/issues/10)
 
 **Hacker**
 - [Unix口令破解与zip口令破解](https://github.com/famousczm/Blog/issues/6)
