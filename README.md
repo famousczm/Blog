@@ -12,6 +12,7 @@
 - [小技巧](https://github.com/famousczm/Blog/issues/5)
 - [动态切换App语言](https://github.com/famousczm/Blog/issues/8)
 - [Android 首次打开app切后台后总是会重启的问题](https://github.com/famousczm/Blog/issues/10)
+- [Stripe 支付](https://github.com/famousczm/Blog/issues/11)
 
 **Hacker**
 - [Unix口令破解与zip口令破解](https://github.com/famousczm/Blog/issues/6)
