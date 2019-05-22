@@ -14,6 +14,9 @@
 - [Android 首次打开app切后台后总是会重启的问题](https://github.com/famousczm/Blog/issues/10)
 - [Stripe 支付](https://github.com/famousczm/Blog/issues/11)
 
+**Python**
+- [Mac上安装python3](https://github.com/famousczm/Blog/issues/12)
+
 **Hacker**
 - [Unix口令破解与zip口令破解](https://github.com/famousczm/Blog/issues/6)
 - [端口扫描器](https://github.com/famousczm/Blog/issues/7)
