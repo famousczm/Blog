@@ -13,6 +13,7 @@
 - [动态切换App语言](https://github.com/famousczm/Blog/issues/8)
 - [Android 首次打开app切后台后总是会重启的问题](https://github.com/famousczm/Blog/issues/10)
 - [Stripe 支付](https://github.com/famousczm/Blog/issues/11)
+- [带参数唤起App](https://github.com/famousczm/Blog/issues/13)
 
 **Python**
 - [Mac上安装python3](https://github.com/famousczm/Blog/issues/12)
